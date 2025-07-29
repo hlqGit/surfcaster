@@ -5,7 +5,8 @@
 	"name": "Surfcaster",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"hlq",
+		"rngk"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -20,6 +21,9 @@
 		],
 		"fabric-datagen": [
 			"net.hlqrngk.surfcaster.SurfcasterDataGenerator"
+		],
+		"client": [
+			"net.hlqrngk.surfcaster.SurfcasterClient"
 		]
 	},
 	"mixins": [
